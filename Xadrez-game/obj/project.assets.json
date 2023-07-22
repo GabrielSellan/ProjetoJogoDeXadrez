@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projetos\\Projeto Sistema de jogo de xadrez\\Xadrez-game\\Xadrez-game\\Xadrez-game.csproj",
-      "projectName": "Xadrez-game",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projetos\\Projeto Sistema de jogo de xadrez\\Xadrez-game\\Xadrez-game\\Xadrez-game.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projetos\\Projeto Sistema de jogo de xadrez\\Xadrez-game\\Xadrez-game\\Xadrez-console.csproj",
+      "projectName": "Xadrez-console",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projetos\\Projeto Sistema de jogo de xadrez\\Xadrez-game\\Xadrez-game\\Xadrez-console.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projetos\\Projeto Sistema de jogo de xadrez\\Xadrez-game\\Xadrez-game\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\bin\Debug\net6.0\Xadrez-console.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\bin\Debug\net6.0\Xadrez-console.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\bin\Debug\net6.0\Xadrez-console.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\bin\Debug\net6.0\Xadrez-console.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\bin\Debug\net6.0\Xadrez-console.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\Xadrez-console.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\Xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\Xadrez-console.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\Xadrez-console.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\Xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\Xadrez-console.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\refint\Xadrez-console.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\Xadrez-console.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\Xadrez-console.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos\Projeto Sistema de jogo de xadrez\Xadrez-game\Xadrez-game\obj\Debug\net6.0\ref\Xadrez-console.dll
