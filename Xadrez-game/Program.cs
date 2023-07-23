@@ -1,5 +1,6 @@
 ﻿using System;
 using tabuleiro;
+using Xadrez_game;
 
 namespace xadrez_console // Note: actual namespace depends on the project name.
 {
@@ -9,8 +10,9 @@ namespace xadrez_console // Note: actual namespace depends on the project name.
         {
             Tabuleiro tab = new Tabuleiro(8, 8);
 
+            Tela.ImprimirTabuleiro(tab);
             
-
+            Console.ReadLine();
         }
     }
 }
